@@ -1,3 +1,2 @@
 .DS_Store
-*.3dm
-*.3dm.rhl
+temp_bin/
