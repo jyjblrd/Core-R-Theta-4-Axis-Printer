@@ -34,9 +34,9 @@
 | 5x11x6 Shaft Collar               | 1   | [DeviceMart](https://www.devicemart.co.kr/goods/view?no=1342561)  |           | B axis                                                 |
 |                                   |     |                                                                   |           |                                                        |
 | Drive                             |     |                                                                   |           |                                                        |
-| 300mm Lead Screw                  | 1   | [Aliexpress])                                                     | Don't Buy |                                                        |
-| 8 to 5 Lead Screw Coupler         | 1   |                                                                   | Don't Buy |                                                        |
-| T8\*8 Lead Screw Nut              | 1   | [Aliexpress])                                                     | Don't Buy | Replace it with Belted Z                               |
+| 300mm Lead Screw                  | 1   | [NaverStore](https://naver.me/5E3gtz0o)                           | Don't Buy |                                                        |
+| 8 to 5 Lead Screw Coupler         | 1   | [NaverStore](https://naver.me/G8sDUlqN)                           | Don't Buy |                                                        |
+| T8\*8 Lead Screw Nut              | 1   | [NaverStore](https://naver.me/5E3gtz0o)                           | Don't Buy | Replace it with Belted Z                               |
 | Nema 17 34mm                      |     | [NaverStore](https://naver.me/xWpIDgJc)                           |           | X/B/C Axis, also sells 48mm                            |
 | Nema 17 48mm                      |     | [Taobao](https://e.tb.cn/h.Tnza9CxToCoDewc?tk=QZGxeU7Q6fZ)        |           | X/B/C Axis                                             |
 |                                   |     |                                                                   |           |                                                        |
@@ -70,6 +70,3 @@
 | Thermal Grease                    | ?   | [NaverStore](https://naver.me/FVexoag7)                           |           | (May not be needed)                                    |
 | Rostock Delta Kossel PEI          | 1   | [Aliexpress](https://a.aliexpress.com/_oCuGFER)                   |           | PEI/PET + Magnetic Sheet, 220mm                        |
 | "                                 |     | [Aliexpress](https://a.aliexpress.com/_ok4sJY3)                   |           | Alternative, ask for 220mm(order as 215mm)             |
-
-【淘宝】退货运费险 https://e.tb.cn/h.Tnza9CxToCoDewc?tk=QZGxeU7Q6fZ CZ001 「Mellow LDO步进电机42MM步进电机用于 3D打印机Voron VzBot」
-点击链接直接打开 或者 淘宝搜索直接打开
