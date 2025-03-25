@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Core R-Theta Printer
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Joshua
+    family-names: Bird
+    email: jyjb2@cantab.ac.uk
+repository-code: 'https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer'
+license: View repository for custom license.
