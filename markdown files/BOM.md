@@ -45,8 +45,9 @@
 | GT2 Pully 20T 5Φ                 | 3   | [Aliexpress](https://a.aliexpress.com/_ond8k73)                   |           | X/B/C Axis                                             |
 | GT2 Idler 20T 5Φ w/o Teeth       | 4   | [Aliexpress](https://a.aliexpress.com/_omrw2Nn)                   | Don't Buy | X/B Axis, Replaced with 2 F695s each                   |
 | GT2 Pully 40T 5Φ                 | 1   | [Aliexpress](https://a.aliexpress.com/_olYyYLT)                   |           | X/B Axis                                               |
-| GT2 Idler 20T 5Φ w/ Teeth        | 2   | [Aliexpress](https://a.aliexpress.com/_omrw2Nn)                   | Don't Buy | Idler Replaced by F695 Bearings(20t size)              |
-|                                   |     |                                                                   |           |                                                        |
+| GT2 Idler 20T 5Φ w/ Teeth        | 3   | [Aliexpress](https://a.aliexpress.com/_omrw2Nn)                   | Don't Buy | Idler Replaced by F695 Bearings(20t size)              |
+| GT2 Open Belt                     |     |                                                                   |           | Belted Z                                               |
+| GT2 Pulley                        |     |                                                                   |           |                                                        |
 |                                   |     |                                                                   |           |                                                        |
 | Electronics                       |     |                                                                   |           |                                                        |
 | Mellow Gloomy FLY RRF E3 PRO V3.0 | 1   | [Aliexpress](https://a.aliexpress.com/_oowFa4x)                   |           | onboard TMC2209,**Board V3.0 Plus 31865**              |
@@ -57,6 +58,8 @@
 | Extruder                          |     |                                                                   |           |                                                        |
 | long nozzle                       | 2   | [Aliexpress](https://a.aliexpress.com/_oFF1uXZ)                   | 2160KRW   | Buy multiple in case clog                              |
 | Mellow Berd Air Pump              | 1   | [Aliexpress](https://a.aliexpress.com/_omC11WL)                   |           | 24V, 10W                                               |
+| 5015 Ballbearing Fan              | 1   |                                                                   |           |                                                        |
+| 4020 Ballbearing Fan              | 1   |                                                                   |           |                                                        |
 | BIQU H2 V2S extruder              | 1   | [Aliexpress](https://a.aliexpress.com/_oEYMTRd)                   |           | Bimetal Heatbreak, ~ABS                                |
 | HUANO Microswitch                 | 1   | [Aliexpress](https://a.aliexpress.com/_omcsWvt)                   |           | 2pcs, transparent blue/blue shell blue point           |
 |                                   |     |                                                                   |           |                                                        |
