@@ -6,3 +6,6 @@ Rotate models in f360 before export to default slicer orientation
 made markdown files to divide longer markdowns
 added checklist.md
 updated BOM.md
+
+2025-03-26
+made CSV_conversion to automatically convert BOM Markdowns into CSV for easier access
