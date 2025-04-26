@@ -36,8 +36,8 @@ if move.kinematics.name == "Polar"
 
     ; Home B axis
     G1 H2 X-83 F10000  ; go back a few mm
-    M84 V             ; disable v motor
-    G1 H2 U370 F20000 ; move u motor until B is homed
+    M84 U             ; disable U motor
+    G1 H2 V370 F20000 ; move V motor until B is homed
 
     M400
     M84               ; disable motors
@@ -59,6 +59,7 @@ if move.kinematics.name == "Polar"
     ;;;;;;;;;;;;;;;;
     ;;; HOME BED ;;;
     ;;;;;;;;;;;;;;;;
+    G1 H2 U180 V-180 F20000  ; face z probe down
     G90              ; absolute movement
     G1 H2 X0  F10000  ; move to middle
     G92 X0 Y0 U0 V0  ; define current position as X0 Y0
@@ -74,7 +75,7 @@ if move.kinematics.name == "Polar"
     G90
 
     ; Face nozzle down
-    G1 H2 U-90 V90 F20000 
+    G1 H2 U{-90-global.B_OFFSET} V{90+global.B_OFFSET} F20000 
     G92 U0 V0
 else
     M98 P"homeb.g"

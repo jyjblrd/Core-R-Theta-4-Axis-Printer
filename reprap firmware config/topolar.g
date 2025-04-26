@@ -26,10 +26,9 @@ M557 R110 S50
 ; Endstops
 M574 X2 S3                                                ; configure sensorless endstop for high end on X
 M574 Z1 S2                                                ; configure Z-probe endstop for low end on Z
-M915 X B R0 F0 S-10                                       ; sensorless endstop configuration
 
 ; Define Kinematics
-M669 K7 R111.5 H114 F200.00 A5000.00 S4000 T0.1    ; polar printer
+M669 K7 H{global.X_LENGTH} F200.00 A5000.00 S4000 T0.1    ; polar printer
 
 ; Say where we are
 ; G92 X0 Y0 Z5 B0 C0 U0 V0
