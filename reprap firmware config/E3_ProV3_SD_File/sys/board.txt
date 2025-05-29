@@ -1,0 +1,2 @@
+stepper.TmcDiagPins = {NoPin, PB_10, PC_4, NoPin, NoPin}
+accelerometer.spiChannel = 2

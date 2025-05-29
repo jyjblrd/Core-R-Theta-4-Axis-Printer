@@ -30,7 +30,7 @@ M915 B R0 F0 S-10
 M915 X H100 R0 F0 S0                                                     
 
 ; Accelerometer
-M955 P0 C"PB_2+PA_10" I46
+M955 P0 C"PB_2+PA_13" I46
 
 ; Input shaping
 ; M593 P"zvddd" F38
@@ -51,10 +51,11 @@ M302 P1                                                    ; allow cold extrudes
 M950 F0 C"fan1"                                            ; create fan 0 on pin fan0 and set its frequency
 M106 P0 S0 H0 T50                                          ; set fan 0 value. Thermostatic control is turned on
 
-M950 F1 C"!PA_7" Q50                                       ; create fan 1 on pin PA_0
+M950 F1 C"!fan0" Q50                                       ; create fan 1 on pin PA_0
 
 ; Tools
 M563 P0 D0 F0 H0                                           ; define tool 0
 G10 P0 X0 Y0 Z0                                            ; set tool 0 axis offsets
 G10 P0 R0 S0                                               ; set initial tool 0 active and standby temperatures to 0C
 T0                                                         ; select tool
+M575 P1 S0 B57600 
