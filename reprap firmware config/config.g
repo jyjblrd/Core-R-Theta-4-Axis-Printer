@@ -22,8 +22,8 @@ M586 P2 S0                                                 ; disable Telnet
 M84 S30                                                    ; Set idle timeout
 
 ; Custom commands for 4 axis / polar configuration
-; M98 P"to4axis.g"
-M98 P"topolar.g"
+M98 P"to4axis.g"
+; M98 P"topolar.g"
 
 ; sensorless endstop configuration
 M915 B R0 F0 S-10                                                     
